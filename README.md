@@ -1,5 +1,3 @@
-# Git-and-Github
-
 # Git and GitHub Notes
 
 ## Index
